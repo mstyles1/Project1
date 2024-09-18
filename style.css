@@ -1,13 +1,9 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 1000;
-    color: blueviolet;
+    color: blueviolet
 }
 
 body {
-   background-color: bisque;
-}
-
-#nav-bar {
-    background-color: aqua;
+    background-color: bisque;
 }
