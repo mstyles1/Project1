@@ -27,6 +27,14 @@ body {
     padding-left: 0px;
 }
 
-paragraph {
+p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.column {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
