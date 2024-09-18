@@ -9,6 +9,7 @@
 </head>
 <body>
     <h1>Cuddly Kitten Adoption Agency</h1>
+
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">CKAA</a>
@@ -31,6 +32,65 @@
         </div>
       </nav>
     
+      <form action="#" method="GET">
+        <div class="form-row">
+            <label for="first-name">
+                Your name:
+            </label>
+            <input 
+            type="text" 
+            name="first-name" 
+            id="first-name" 
+            required />
+         </div> 
+
+         <div class="form-row">
+            <label for="last-name">
+                Last name:
+            </label>
+            <input 
+            type="text" 
+            name="last-name" 
+            id="last-name" 
+            required />
+         </div> 
+         
+         <div class="form-row">
+            <label for="phone">
+                Phone number:
+            </label>
+            <input type="text" 
+            name="phone" 
+            id="phone" 
+            required/>
+         </div>
+         
+        <div class="form-row">
+            <label for="email">
+                Email:
+            </label>
+            <input 
+            type="email" 
+            name="email" 
+            id="email"
+            placeholder="Ex: bob@email.com" 
+            required />
+        </div> 
+
+        <div class="form-row">
+            <label>
+                5 reasons why you make a great parent to a kitten <br>
+                <textarea name="message" cols="30" rows="10"></textarea>
+            </label>
+
+        </div>
+
+        </div>
+        
+    <div class="form-row">
+    <button type="submit">Submit</button> <br>
+    <button type="reset">Reset</button>
+    </div>    
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
