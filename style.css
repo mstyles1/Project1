@@ -3,9 +3,13 @@ head {
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 1000;
+    font-size: 50px;
     color: blueviolet;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 h2 {
@@ -25,6 +29,14 @@ body {
 .navbar ul {
     list-style-type: none;
     padding-left: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+   
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p {
