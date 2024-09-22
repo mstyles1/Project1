@@ -3,20 +3,9 @@ head {
     margin-left: 0px;
 }
 
-
-h1 {
-    text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 1000;
-    font-size: 50px;
-    color: blueviolet;
-    padding-top: 50px;
-    padding-bottom: 20px;
-}
-
 h2 {
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     color:black;
