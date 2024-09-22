@@ -3,6 +3,20 @@ head {
     margin-left: 0px;
 }
 
+body {
+    background-color:aquamarine;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+footer {
+    background-color: aliceblue;
+    padding-right: 5px;
+    position:fixed;
+    bottom: 0;
+    left:0;
+}
+
 h1 {
     padding-top: 15px;
     padding-bottom: 5px;
@@ -40,13 +54,6 @@ h5 {
     font-family: cursive;
     padding-bottom: 0px;
     padding-top: 20px;
-}
-
-body {
-    background-color:aquamarine;
-    padding-left: 0px;
-    margin-left: 0px;
-    margin-bottom:24px
 }
 
 .navbar ul {
