@@ -22,7 +22,12 @@ h2 {
 }
 
 h3 {
-    font-size: 17px;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 400;
+    color:black;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 body {
@@ -58,4 +63,10 @@ p {
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.form-row {
+    padding-top: 10px;
+  padding-left: 7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
