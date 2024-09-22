@@ -56,6 +56,15 @@ h5 {
     padding-top: 20px;
 }
 
+h6 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h7 {
+    font-family: cursive;
+    font-size: 30px;
+}
+
 .navbar ul {
     list-style-type: none;
     padding-left: 380px;
@@ -94,4 +103,8 @@ p {
 .container2 {
     text-align: center;
     font-family: cursive;
+}
+
+.container4 {
+    text-align: center;
 }
