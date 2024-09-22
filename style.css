@@ -3,10 +3,18 @@ head {
     margin-left: 0px;
 }
 
+h1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+}
+
 h2 {
     text-align: center;
     font-size: 40px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
     font-weight: 400;
     color:black;
     padding-top: 25px;
@@ -18,22 +26,26 @@ h3 {
 }
 
 body {
-    background-color:blanchedalmond;
+    background-color:aquamarine;
     padding-left: 0px;
     margin-left: 0px;
 }
 
 .navbar ul {
     list-style-type: none;
-   padding-left: 380px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 380px;
+    font-family: cursive;
     font-size: 15px;
+    text-decoration: wavy;
    
 }
 
 .navbar-brand {
     font-size: 20px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: cursive;
+    font-stretch: expanded;
+    color:navy;
+    font-weight: 600;
 }
 
 p {
