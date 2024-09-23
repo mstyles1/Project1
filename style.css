@@ -114,19 +114,7 @@ p {
 .container4 {
     padding-left: 10px;
     align-items: left;
-    img {
-        float: left;
-        margin-right: 10px;
-      }
-      
-      p {
-        overflow: hidden;
-      }
-}
-
-.container5 {
-    padding-left: 10px;
-    align-items: left;
+    width: 400px;
     img {
         float: left;
         margin-right: 10px;
