@@ -59,14 +59,6 @@ h6 {
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-h7 {
-    font-family: cursive;
-    font-weight: 600;
-    font-size: 20px;
-    padding-bottom: 15px;
-    padding-left: 15px;
-}
-
 .navbar ul {
     list-style-type: none;
     padding-left: 380px;
