@@ -63,7 +63,6 @@ h7 {
     font-family: cursive;
     font-weight: 600;
     font-size: 20px;
-    padding-top: 20px;
     padding-bottom: 15px;
     padding-left: 15px;
 }
@@ -113,6 +112,7 @@ p {
 
 .container4 {
     padding-left: 10px;
+    padding-top:10px;
     align-items: left;
     width: 400px;
     img {
