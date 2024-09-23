@@ -2,6 +2,7 @@ Matt Styles
 My website is designed to provide users with the ability to apply for kitten adoption.  
 This will include a home page introducing users to the adoption program, a profile page with bios for each kitten, and a form page where they can apply.
 Technologies include: HTML, CSS, Bootstrap, and Git/GitHub. 
+
 Future Improvements: 
 -More testimonials or even a separate tab with testimonials. 
 -More stylization on the columns so they stand out more ie: backgrounds that highlight each profile. 
