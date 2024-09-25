@@ -9,14 +9,27 @@ body {
     margin-left: 0px;
 }
 
-footer {
-    background-color: aliceblue;
-    padding-right: 5px;
-    position:fixed;
-    bottom: 0;
-    left:0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+main {
+    padding-bottom: 50px;
 }
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+  
+#content-wrap {
+    padding-bottom: 2.5rem;   
+}
+  
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;         
+    padding-right: 5px;
+}    
+
 
 h1 {
     padding-top: 25px;
@@ -81,7 +94,7 @@ h6 {
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .col {
@@ -107,15 +120,22 @@ p {
 
 .container4 {
     padding-left: 10px;
-    padding-top:10px;
+    padding-top: 10px;
+    padding-bottom: 50px;
     align-items: left;
     width: 400px;
     img {
         float: left;
         margin-right: 10px;
+        padding-bottom: 50px;
       }
       
       p {
         overflow: hidden;
       }
+}
+
+.section-2 p{
+    text-align: center;
+    font-size: 20px;
 }
